@@ -12,6 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+#This is fork from https://github.com/google-coral/examples-camera?tab=readme-ov-file
+
 """A demo which runs object detection on camera frames using GStreamer.
 
 Run default object detection:
